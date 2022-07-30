@@ -1,7 +1,7 @@
 {
   "name": "ford-gobike-gbfs-geojson-multi-cities",
   "version": "1.0.0",
-  "description": "# 🚀 YYYYYY 🚀",
+  "description": "# This project visualizes data about the Ford GoBike network. The data is available here: https://bikeshare.science.",
   "main": "index.js",
   "directories": {
     "doc": "docs"
