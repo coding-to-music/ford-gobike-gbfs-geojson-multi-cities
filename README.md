@@ -1,3 +1,31 @@
+# ford-gobike-gbfs-geojson-multi-cities
+
+# 🚀 This project visualizes data about the Ford GoBike network. The data is available here: https://bikeshare.science. 🚀
+
+https://github.com/coding-to-music/ford-gobike-gbfs-geojson-multi-cities
+
+From / By Kevin Burke https://github.com/kevinburke
+
+https://github.com/kevinburke/gobike
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/ford-gobike-gbfs-geojson-multi-cities.git
+git push -u origin main
+```
+
 # GoBike Data
 
 This project visualizes data about the Ford GoBike network. The data is

@@ -1,0 +1,24 @@
+{
+  "name": "ford-gobike-gbfs-geojson-multi-cities",
+  "version": "1.0.0",
+  "description": "# 🚀 YYYYYY 🚀",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinburke/gobike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinburke/gobike/issues"
+  },
+  "homepage": "https://github.com/kevinburke/gobike#readme"
+}
